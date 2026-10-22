@@ -3,7 +3,7 @@
 My name is Cuber,
 
  my first language is C, and i am a learning Aerodynamisist:  
-   and i have 1-2 years pf experiance in CAD and Bleander.
+   and i have 1-2 years of experiance in CAD and Blender.
 
  i am also an enthusiastic F1 fan.
 
